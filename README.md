@@ -76,7 +76,7 @@ This project successfully implemented **Cypress-based automation tests** for the
 
 The identified bugs have been documented and shared with the development team to prioritize fixes. The comprehensive **Test Plan**and other artifacts ensure that the testing process was thorough and transparent.
 
----
+~~~
  # ProjectDemoWebShop
 |cypress
 |
